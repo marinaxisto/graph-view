@@ -33,17 +33,6 @@ const nodes = [
     videoUrl: "video/node3.mp4",
     moreInfoUrl: "https://example.com/node3",
   },
-  {
-    id: 4,
-    title: "Node 4",
-    x: 150,
-    y: 350,
-    connections: [2],
-    description: "This is node 4.",
-    imageUrl: "img/node3.jpg",
-    videoUrl: "video/node3.mp4",
-    moreInfoUrl: "https://example.com/node3",
-  },
 ]
 
 // Function to create and append a node element to the graph container
